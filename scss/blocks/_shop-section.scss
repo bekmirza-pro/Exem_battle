@@ -55,7 +55,7 @@
   only screen and (min-resolution: 192dpi),
   only screen and (min-resolution: 2dppx) {
   .shop-list-item:nth-child(1):before {
-    content: url(/images/removebg-preview@2x.png);
+    // content: url(/images/removebg-preview@2x.png);
   }
   .list-item:nth-child(2)::before {
     content: url(/images/removebg-preview38@2x.png);
